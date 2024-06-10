@@ -1,10 +1,10 @@
 from . import __version__ as app_version
 
 app_name = "budget"
-app_title = "Budget"
-app_publisher = "ds"
-app_description = "ds"
-app_email = "ds@ds.com"
+app_title = "budge"
+app_publisher = "ahmed"
+app_description = "budget"
+app_email = "ahmed"
 app_license = "MIT"
 
 # Includes in <head>
